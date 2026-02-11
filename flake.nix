@@ -20,7 +20,7 @@
           shellHook = ''
             echo "--------------------------------------------------"
             echo "loaded zola env"
-            echo "'zola serve --interface 0.0.0.0' to preview on wsl"
+            echo "'zola serve' to preview on wsl"
             echo "--------------------------------------------------"
           '';
         };
